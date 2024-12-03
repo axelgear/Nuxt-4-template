@@ -1,5 +1,5 @@
 # Nuxt-4-template
-
+```
 Nuxt_v4_Project/
 ├── app/
 │   ├── assets/         # Processed static assets
@@ -20,3 +20,4 @@ Nuxt_v4_Project/
 ├── nuxt.config.ts      # Global Nuxt.js configuration
 ├── package.json        # Project metadata and dependencies
 └── tsconfig.json       # TypeScript configuration (optional)
+```
