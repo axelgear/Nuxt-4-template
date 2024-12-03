@@ -38,7 +38,7 @@ Clone the repository:
 
 ```
 git clone https://github.com/axelgear/Nuxt-4-template.git
-cd Nuxt-4-template.git
+cd Nuxt-4-template
 ```
 
 Install dependencies:
